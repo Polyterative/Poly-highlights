@@ -2,7 +2,7 @@
 My custom-made highlighting
 
 ###HTML and CSS
-![Image](/HTML and CSS.png)
+![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
 
 ###C# and JS.png
-![Image](/C# and JS.png.png)
+![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
