@@ -1,5 +1,6 @@
 # MaterialStyle - Rider highlighting
-My custom-made highlighting,
+My custom-made highlighting.
+
 Hand build for clarity and visual satisfaction
 
 ### HTML and CSS
