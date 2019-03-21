@@ -1,8 +1,8 @@
-# MaterialStyle---Rider-highlighting
+# MaterialStyle - Rider highlighting
 My custom-made highlighting
 
-###HTML and CSS
+### HTML and CSS
 ![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
 
-###C# and JS.png
+### C# and JS.png
 ![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
