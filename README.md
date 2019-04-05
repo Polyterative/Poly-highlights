@@ -1,9 +1,19 @@
 # Poly highlights - JetBrains' custom  theme
 
+
+![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
+
 Hand build for maximum clarity and visual satisfaction
 
-### HTML and CSS
-![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
+Language defaults correctly applied, so you can extend it as you please
 
-### C# and JS.png
-![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
+Supported and tested languages:
+
+- Typescript
+- Javascript
+- HTML
+- CSS
+- SCSS
+- SASS
+- Java
+- Kotlin
