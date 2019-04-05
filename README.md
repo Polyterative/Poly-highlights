@@ -1,7 +1,7 @@
 # Poly highlights - JetBrains' custom  theme
 
 
-![Image](https://github.com/Polyterative/MaterialStyle---Rider-highlighting/blob/master/C%23%20and%20JS.png)
+![Image](https://github.com/Polyterative/Poly-highlights-JetBrains-theme/blob/master/Examples/Java_1.png)
 
 Hand build for maximum clarity and visual satisfaction
 
