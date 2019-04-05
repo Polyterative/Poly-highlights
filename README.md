@@ -10,6 +10,7 @@ Language defaults correctly applied, so you can extend it as you please
 Supported and tested languages:
 
 - Typescript
+- Angular (language service)
 - Javascript
 - HTML
 - CSS
@@ -17,3 +18,6 @@ Supported and tested languages:
 - SASS
 - Java
 - Kotlin
+- C#
+- .NET
+
