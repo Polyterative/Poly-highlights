@@ -21,3 +21,14 @@ Supported and tested languages:
 - C#
 - .NET
 
+Design strategy:
+
+
+| What           	| Color  	| Why                                           	|
+|----------------	|--------	|-----------------------------------------------	|
+| Keyword        	| Blue   	| Base color                                    	|
+| Class          	| Green  	| Easy to locate                                	|
+| Interface      	| Purple 	| Easy to locate                                	|
+| Variable/Field 	| Orange 	| Less fatiguing color against dark backgrounds 	|
+| Parameter      	| Yellow 	| Contrast with method body                     	|
+| String         	| White  	| Contrast, neutral color                       	|
