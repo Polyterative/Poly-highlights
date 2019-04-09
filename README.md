@@ -24,11 +24,11 @@ Supported and tested languages:
 Design strategy:
 
 
-| What           	| Color  	| Why                                           	|
-|----------------	|--------	|-----------------------------------------------	|
-| Keyword        	| Blue   	| Base color                                    	|
-| Class          	| Green  	| Easy to locate                                	|
-| Interface      	| Purple 	| Easy to locate                                	|
-| Variable/Field 	| Orange 	| Less fatiguing color against dark backgrounds 	|
-| Parameter      	| Yellow 	| Contrast with method body                     	|
-| String         	| White  	| Contrast, neutral color                       	|
+| What           	| Color  	| Hex  	    | Why                                           	|
+|----------------	|--------	|--------	|-----------------------------------------------	|
+| Keyword        	| Blue   	| #4BA5FF   | Base color                                    	|
+| Class          	| Green  	| #70B844  	| Easy to locate                                	|
+| Interface      	| Purple 	| #D28BD7 	| Easy to locate                                	|
+| Variable/Field 	| Orange 	| #EB8443 	| Less fatiguing color against dark backgrounds 	|
+| Parameter      	| Yellow 	| #FFCA28 	| Contrast with method body                     	|
+| String         	| White  	| #C3CEE3  	| Contrast, neutral color                       	|
