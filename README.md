@@ -32,3 +32,6 @@ Design strategy:
 | Variable/Field 	| Orange 	| #EB8443 	| Less fatiguing color against dark backgrounds 	|
 | Parameter      	| Yellow 	| #FFCA28 	| Contrast with method body                     	|
 | String         	| White  	| #C3CEE3  	| Contrast, neutral color                       	|
+
+
+![Image]( https://raw.githubusercontent.com/Polyterative/Poly-highlights/master/palette.png )
