@@ -1,7 +1,7 @@
 # Poly highlights - JetBrains' custom  theme
 
 
-![Image](https://github.com/Polyterative/Poly-highlights-JetBrains-theme/blob/master/Examples/Java_1.png)
+![Image]( https://raw.githubusercontent.com/Polyterative/Poly-highlights/master/Examples/Typescript%20%2B%20RxJS%20.png )
 
 Hand crafted for maximum clarity and visual satisfaction
 
