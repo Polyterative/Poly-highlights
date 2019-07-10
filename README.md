@@ -4,9 +4,10 @@
 ![Image]( https://raw.githubusercontent.com/Polyterative/Poly-highlights/master/Examples/Typescript%20%2B%20RxJS%20.png )
 
 Hand crafted for maximum clarity and visual satisfaction
-
 Language defaults correctly applied, so you can extend it as you please
 
+I also *heavily* suggest using [Hasklig](https://github.com/i-tu/Hasklig)  as your font with this.
+___
 Supported and tested languages:
 
 - Typescript
