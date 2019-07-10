@@ -1,11 +1,11 @@
-<scheme name="Material Theme - Vlady V17" version="142" parent_scheme="Default">
+<scheme name="Material Theme - Vlady V18" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-09T14:23:04</property>
+    <property name="created">2019-07-04T16:29:46</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-04-09T14:23:19</property>
-    <property name="originalScheme">Material Theme - Vlady V17</property>
+    <property name="ideVersion">2019.1.2.0.0</property>
+    <property name="modified">2019-07-04T16:29:56</property>
+    <property name="originalScheme">Material Theme - Vlady V18</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
@@ -109,12 +109,7 @@
         <option name="FOREGROUND" value="ff307b" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="bbb529" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="4a010b" />
@@ -520,7 +515,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="64d6bc" />
+        <option name="FOREGROUND" value="f18ab5" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -574,7 +569,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a7581" />
+        <option name="FOREGROUND" value="546e7a" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -882,16 +877,16 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ff92bf" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="9fa3ff" />
+      </value>
+    </option>
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -929,13 +924,24 @@
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="6dc2b8" />
+        <option name="FOREGROUND" value="99b5cf" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="7abacd" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXCLEXCL">
+      <value>
+        <option name="FOREGROUND" value="e76145" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="eb9dff" />
+        <option name="FOREGROUND" value="e284db" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -62519,11 +62525,43 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="NG.EXPRESSIONS">
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="52db59" />
+        <option name="FOREGROUND" value="c091e3" />
         <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="9de38d" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="NG.EXPRESSIONS">
+      <value>
+        <option name="FOREGROUND" value="db9659" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="de92cb" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="NG.SCRIPT_DELIMITERS">
+      <value>
+        <option name="FOREGROUND" value="4fb6ff" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="bfc349" />
+        <option name="BACKGROUND" value="4e501e" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -62835,11 +62873,6 @@
         <option name="FOREGROUND" value="bda5e3" />
         <option name="BACKGROUND" value="20192a" />
         <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="TS.PRIVATE_PUBLIC">
-      <value>
-        <option name="FOREGROUND" value="45c8db" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
