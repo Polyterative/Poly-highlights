@@ -1,13 +1,14 @@
 # Poly highlights - JetBrains' custom  theme
 
+![image](https://user-images.githubusercontent.com/16295552/115997866-0e3e7480-a5e5-11eb-98b1-f51fa5350e07.png)
+![image](https://user-images.githubusercontent.com/16295552/115997891-1b5b6380-a5e5-11eb-9061-2c2c6e4c9361.png)
+![image](https://user-images.githubusercontent.com/16295552/115997907-27472580-a5e5-11eb-8bc3-210fd8cd122f.png)
 
-![Image]( https://raw.githubusercontent.com/Polyterative/Poly-highlights/master/Examples/Typescript%20%2B%20RxJS%20.png )
 
 Hand crafted for maximum clarity and visual satisfaction
 Language defaults correctly applied, so you can extend it as you please
 
-I also *heavily* suggest using [Hasklig](https://github.com/i-tu/Hasklig)  as your font with this. 
-Or just use PragmataPro or Iosevka if you prefer condensed fonts.
+Just use PragmataPro or Iosevka if you prefer condensed fonts.
 ___
 Supported and tested languages:
 
