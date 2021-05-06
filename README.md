@@ -36,5 +36,5 @@ Design strategy:
 | Parameter      	| Yellow 	| #FFCA28 	| Contrast with method body                     	|
 | String         	| White  	| #C3CEE3  	| Contrast, neutral color                       	|
 
+![image](https://user-images.githubusercontent.com/16295552/117307989-5d0bca00-ae81-11eb-8b1a-fe5f79218c31.png)
 
-![Image]( https://raw.githubusercontent.com/Polyterative/Poly-highlights/master/palette.png )
