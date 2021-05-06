@@ -6,7 +6,7 @@
 Hand crafted for maximum clarity and visual satisfaction
 Language defaults correctly applied, so you can extend it as you please
 
-Just use PragmataPro or Iosevka if you prefer condensed fonts.
+Just use PragmataPro or https://github.com/be5invis/Iosevka if you prefer condensed fonts.
 ___
 Supported and tested languages:
 
