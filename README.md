@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/16295552/115997866-0e3e7480-a5e5-11eb-98b1-f51fa5350e07.png)
 
 
-Hand crafted for maximum clarity and visual satisfaction
+Hand crafted for clarity and focus. Using luminance-corrected colors for maximum confort. 
+
 Language defaults correctly applied, so you can extend it as you please
 
 Just use PragmataPro or https://github.com/be5invis/Iosevka if you prefer condensed fonts.
@@ -24,7 +25,7 @@ Supported and tested languages:
 
 # Design strategy
 
-
+These have been generated in a LCH colorspace and then manually adjusted for their derivative colors. 
 | What           	| Color  	| Hex  	    | Why                                           	|
 |----------------	|--------	|--------	|-----------------------------------------------	|
 | Keyword        	| Blue   	| #4BA5FF   | Base color                                    	|
