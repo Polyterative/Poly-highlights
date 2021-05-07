@@ -7,7 +7,7 @@ Hand crafted for clarity and focus. Using luminance-corrected colors for maximum
 
 Language defaults correctly applied, so you can extend it as you please
 
-Just use PragmataPro or https://github.com/be5invis/Iosevka if you prefer condensed fonts.
+Just use https://github.com/fabrizioschiavi/pragmatapro or https://github.com/be5invis/Iosevka if you prefer condensed fonts.
 ___
 Supported and tested languages:
 
