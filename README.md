@@ -1,6 +1,15 @@
-# Poly highlights - JetBrains' custom  theme
+<h1 align="center">Poly highlights - JetBrains' custom  theme.</h1>
 
-![image](https://user-images.githubusercontent.com/16295552/115997866-0e3e7480-a5e5-11eb-98b1-f51fa5350e07.png)
+<p align="center">
+  <i>Luminance-corrected (LCH) highlighting for JetBrains IDEs. Updated regularly.</i>
+  <br>
+</p>
+
+<p align="center">
+  
+  ![image](https://user-images.githubusercontent.com/16295552/115997866-0e3e7480-a5e5-11eb-98b1-f51fa5350e07.png)
+ 
+</p>
 
 
 Hand crafted for clarity and focus. Using luminance-corrected colors for maximum confort. 
