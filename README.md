@@ -3,6 +3,7 @@
 <p align="center">
   <i>Luminance-corrected (LCH) highlighting for JetBrains IDEs. Updated regularly.</i>
   <br>
+  <a href="./INSTALLATION.md">How to install.</a>
 </p>
 
 <p align="center">
