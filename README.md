@@ -35,14 +35,14 @@ Supported and tested languages:
 
 These have been generated in a LCH colorspace and then manually adjusted for their derivative colors. The colors were chosen to maximize contrast and readability, while also being easy on the eyes. Here's a breakdown of the color choices:
 
-| What           | Color  | Hex     | Why                                                                |
-| -------------- | ------ | ------- | ------------------------------------------------------------------ |
-| Keyword        | Blue   | #4BA5FF | Base color, easy to distinguish                                    |
-| Class          | Green  | #70B844 | Easy to locate, stands out against other elements                  |
-| Interface      | Purple | #D28BD7 | Easy to locate, distinct from classes                              |
-| Variable/Field | Orange | #EB8443 | Less fatiguing color against dark backgrounds, easy to distinguish |
-| Parameter      | Yellow | #FFCA28 | Contrast with method body, easy to locate                          |
-| String         | White  | #C3CEE3 | Contrast, neutral color, easy to read                              |
+| What           | Color  | Hex     | Why                                                                           |
+| -------------- | ------ | ------- | ----------------------------------------------------------------------------- |
+| Keyword        | Blue   | #4BA5FF | Base color, designed for clear distinction                                    |
+| Class          | Green  | #70B844 | Prominent against other elements, facilitating quick location                 |
+| Interface      | Purple | #D28BD7 | Distinct from classes, aiding in quick identification                         |
+| Variable/Field | Orange | #EB8443 | Less fatiguing color against dark backgrounds, designed for clear distinction |
+| Parameter      | Yellow | #FFCA28 | Contrasts with method body, facilitating quick location                       |
+| String         | White  | #C3CEE3 | Contrast, neutral color, easy to read                                         |
 
 # Samples
 
