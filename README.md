@@ -22,14 +22,14 @@ Just use https://github.com/fabrizioschiavi/pragmatapro or https://github.com/be
 
 Supported and tested languages:
 
-- Typescript: Poly highlights enhances the readability of Typescript code by highlighting key elements in distinct colors. This makes it easier to distinguish between different parts of the code.
-- Angular (language service): With Poly highlights, Angular templates are more readable and easier to navigate.
-- Javascript: Poly highlights improves the readability of Javascript code by highlighting syntax and keywords in different colors.
-- HTML: Poly highlights makes HTML code easier to read by highlighting tags and attributes in distinct colors.
-- CSS, SCSS, SASS: Poly highlights enhances the readability of CSS, SCSS, and SASS code by highlighting selectors, properties, and values in different colors.
-- Java: Poly highlights improves the readability of Java code by highlighting classes, methods, and variables in distinct colors.
-- Kotlin: With Poly highlights, Kotlin code is more readable and easier to navigate.
-- C#, .NET: Poly highlights enhances the readability of C# and .NET code by highlighting key elements in distinct colors.
+- Typescript: Poly highlights improves Typescript code readability by distinctly highlighting key elements.
+- Angular (language service): Poly highlights improves navigation and understanding of Angular templates.
+- Javascript: Poly highlights improves Javascript code comprehension by distinctly highlighting syntax and keywords.
+- HTML: Poly highlights improves HTML code readability by distinctly highlighting tags and attributes.
+- CSS, SCSS, SASS: Poly highlights improves CSS, SCSS, and SASS code readability by distinctly highlighting selectors, properties, and values.
+- Java: Poly highlights enhances Java code comprehension by distinctly highlighting classes, methods, and variables.
+- Kotlin: Poly highlights improves navigation and understanding of Kotlin code.
+- C#, .NET: Poly highlights improves C# and .NET code comprehension by distinctly highlighting key elements.
 
 # Design strategy
 
